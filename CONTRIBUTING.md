@@ -1,3 +1,4 @@
+Assalamualaikum and hello
 # Contributing to SCST1133
 
 Registered SCST1133 students submit exercises using a fork and Pull Request.
